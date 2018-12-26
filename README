@@ -1,0 +1,4 @@
+Assuming that all the data files are included in the directory who's path is
+DATA_FOLDER. E.g. if the data files are in a directory called 'data' within the
+current directory, then the DATA_FOLDER parameter will be './data' and the
+scripts will take care of the rest.
